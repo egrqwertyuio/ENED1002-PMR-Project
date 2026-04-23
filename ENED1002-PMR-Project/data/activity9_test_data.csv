@@ -1,0 +1,53 @@
+Trial,Corrections,Completion_Time_sec
+1,1,32.92
+2,0,35.38
+3,0,33.57
+4,0,32.92
+5,0,34.28
+6,0,32.67
+7,0,35.48
+8,0,33.88
+9,1,31.92
+10,0,34.34
+11,0,32.70
+12,0,35.31
+13,0,33.52
+14,0,32.12
+15,0,34.38
+16,0,32.52
+17,0,35.18
+18,1,33.57
+19,0,32.94
+20,0,34.21
+
+Summary Statistics - Test 1 (Corrections per Run)
+Metric,Value
+Mean,0.15
+Standard Error,0.0819
+Median,0
+Mode,0
+Standard Deviation,0.366
+Sample Variance,0.134
+Kurtosis,2.776
+Skewness,2.123
+Range,1
+Minimum,0
+Maximum,1
+Sum,3
+Count,20
+
+Summary Statistics - Test 2 (Completion Time sec)
+Metric,Value
+Mean,33.691
+Standard Error,0.247
+Median,33.57
+Mode,32.92
+Standard Deviation,1.106
+Sample Variance,1.224
+Kurtosis,-1.047
+Skewness,0.201
+Range,3.56
+Minimum,31.92
+Maximum,35.48
+Sum,673.81
+Count,20
